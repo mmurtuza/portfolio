@@ -1,2 +1,2 @@
 # portfolio
-This Project is copied for practice peruses!
+This Project is copied for practice purposes!
